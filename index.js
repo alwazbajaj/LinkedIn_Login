@@ -3,8 +3,8 @@
 
 // const app = express();
 // const PORT = 3200;
-// const app_id = '86zk1p5cbax79n'
-// const secret = 'FBycWSOyVOGACojC'
+// const app_id = 'XXXXXXXXX'
+// const secret = 'XXXXXXXXXXXXX'
 // var Linkedin = require('node-linkedin')('app_id','secret')  
 
 // var scope = ['r_basicprofile', 'r_fullprofile', 'r_emailaddress','r_contactinfo'];
