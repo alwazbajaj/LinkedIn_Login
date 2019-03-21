@@ -1,6 +1,6 @@
 const OauthParams = {
-    client_id: "86zk1p5cbax79n",
-    client_secret: "FBycWSOyVOGACojC",
+    client_id: "XXXXXXXXXXXXX",
+    client_secret: "XXXXXXXXXXX",
     redirect_uri: "http://localhost:5000/auth"
 }
 module.exports = OauthParams;
