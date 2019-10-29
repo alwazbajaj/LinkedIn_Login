@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "g": "^2.0.1",
     "mongodb": "^3.1.10",
-    "mongoose": "^5.4.1",
+    "mongoose": "^5.7.5",
     "node-linkedin": "^0.5.6",
     "nodemon": "^1.18.9"
   },
